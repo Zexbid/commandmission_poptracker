@@ -150,7 +150,7 @@
                 ]
             },
             {
-                "name": "Vanallia Desert - Signal Jammer Laser Energy Control Room SW",
+                "name": "Vanallia Desert Base - Signal Jammer Laser Energy Control Room SW",
                 "access_rules": ["vanallia_desert"],
                 "sections": [
                     {
