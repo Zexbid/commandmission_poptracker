@@ -75,7 +75,6 @@
                         "name": "Absolute Zero",
                         "chest_unopened_img": "images/items/Pink.png",
                         "chest_opened_img": "images/items/Gray.png",
-                        "item_count": 3,
                         "access_rules": ["melda_key, duckbill_mole"]
                     }
                 ],
