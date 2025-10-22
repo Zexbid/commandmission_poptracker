@@ -298,7 +298,7 @@
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_font_size": 12,
-    "overlay_background": "#A0000000",
+    "overlay_background": "#A0000000"
   },
   {
     "name": "Mini Motor",
