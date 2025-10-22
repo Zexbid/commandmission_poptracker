@@ -220,7 +220,7 @@
     "name": "Rebellion Medal",
     "type": "consumable",
     "img": "images/items/Rebellion.png",
-    "max_quantity": 8,
+    "max_quantity": 9,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
@@ -290,9 +290,15 @@
   },
   {
     "name": "Mini Batteries",
-    "type": "toggle",
+    "type": "consumable",
     "img": "images/items/MiniBattery.png",
-    "codes": "mini_batteries"
+    "codes": "mini_batteries",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_background": "#A0000000",
   },
   {
     "name": "Mini Motor",
