@@ -1,0 +1,226 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Characters",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "characters"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Stages",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "stages"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "items"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Bosses",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "bosses"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Options",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "options"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Characters",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "characters"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Stages",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "stages"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "items"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Bosses",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "bosses"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Options",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "options"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Lagrano Ruins",
+              "content": {
+                "type": "map",
+                "maps": ["Lagrano Ruins"]
+              }
+            },
+            {
+              "title": "Central Tower",
+              "content": {
+                "type": "map",
+                "maps": ["Central Tower"]
+              }
+            },
+            {
+              "title": "Tianna Camp",
+              "content": {
+                "type": "map",
+                "maps": ["Tianna Camp"]
+              }
+            },
+            {
+              "title": "Gaudile Laboratory",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Laboratory",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Gaudile Laboratory"]
+                    } 
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Ulfat Factory",
+              "content": {
+                "type": "map",
+                "maps": ["Ulfat Factory"]
+              }
+            },
+            {
+              "title": "Gimialla Mine",
+              "content": {
+                "type": "map",
+                "maps": ["Gimialla Mine"]
+              }
+            },
+            {
+              "title": "Vanallia Desert",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Quicksand",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Vanallia Desert Quicksand"]
+                    } 
+                  },
+                  {
+                    "title": "Desert Base",
+                    "content": {
+                    "type": "map",
+                    "maps": ["Vanallia Desert Base"]
+                    } 
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Melda Ore Plant",
+              "content": {
+                "type": "map",
+                "maps": ["Melda Ore Plant"]
+              }
+            },
+            {
+              "title": "Grave Ruins Base",
+              "content": {
+                "type": "map",
+                "maps": ["Grave Ruins Base"]
+              }
+            },
+            {
+              "title": "Far East HQ",
+              "content": {
+                "type": "map",
+                "maps": ["Far East HQ"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

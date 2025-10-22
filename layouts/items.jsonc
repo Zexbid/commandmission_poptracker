@@ -1,0 +1,85 @@
+{
+    "characters": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "42",
+                "item_margin": "3,3",
+                "rows": [
+                    ["x","zero","axl" ],
+                    ["spider","massimo","marino"]
+                ]
+            }
+        ]
+    },
+    "stages": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "42",
+                "item_margin": "3,3",
+                "rows": [
+                    ["lagrano_ruins","central_tower","tianna_camp","gaudile_laboratory"],
+                    ["ulfat_factory","gimialla_mine","vanallia_desert","melda_ore_plant"],
+                    ["grave_ruins_base","far_east_hq","go_mode"]
+                ]
+            }
+        ]
+    },
+    "items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "35",
+                "item_margin": "3,3",
+                "rows": [
+                    ["treasure_radar","aile's_id","booster_parts","rebellion_medal"],
+                    ["lagrano_key","central_key","tianna_key","gimialla_key","melda_key"],
+                    ["white_pickaxe","red_pickaxe","green_pickaxe","blue_pickaxe","yellow_pickaxe","electric_components"],
+                    ["mini_batteries","mini_motor","heavy_motor","bone_key","ball_&_chain_hammer","cyber_liquid"]
+                ]
+            }
+        ]
+    },
+    "bosses": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "64",
+                "item_margin": "1,1",
+                "rows": [
+                    ["hippopressor","wild_jango","silver_horn","dr_psyche","mach_jentra"],
+                    ["incentas","botos","ferham","epsilon"],
+                    ["great_redips"]
+                ]
+            }
+        ]
+    },
+    "options": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "v_alignment": "center",
+                "item_size": "64",
+                "item_margin": "1,1",
+                "rows": [
+                    ["mechaniloids"]
+                ]
+            }
+        ]
+    }
+}
