@@ -136,7 +136,7 @@
                 "access_rules": ["vanallia_desert, mini_batteries"],
                 "sections": [
                     {
-                        "name": "Megatortoise"
+                        "name": "Mega Tortoise"
                     }
                 ]
             },
@@ -151,7 +151,7 @@
             },
             {
                 "name": "Vanallia Desert Base - Signal Jammer Laser Energy Control Room SW",
-                "access_rules": ["vanallia_desert"],
+                "access_rules": ["vanallia_desert, mini_motor"],
                 "sections": [
                     {
                         "name": "Pararoid"
@@ -177,7 +177,7 @@
                 ]
             },
             {
-                "name": "Melda Ore Plant - Melda Ore Plant - Area E-B04",
+                "name": "Melda Ore Plant - Area E-B04",
                 "access_rules": ["melda_ore_plant"],
                 "sections": [
                     {

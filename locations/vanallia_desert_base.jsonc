@@ -43,7 +43,7 @@
                     },
                     {
                         "name": "Liquid Glob",
-                        "ref": "Mechaniloids/Vanallia Desert - Quicksand South Side/Liquid Glob"
+                        "ref": "Mechaniloids/Vanallia Desert Base - Quicksand South Side/Liquid Glob"
                     },
                     {
                         "name": "Treasure Token",
@@ -61,11 +61,6 @@
             {
                 "name": "Quicksand North Side",
                 "sections": [
-                    {
-                        "name": "Vaccine Program",
-                        "chest_unopened_img": "images/items/Blue.png",
-                        "chest_opened_img": "images/items/Gray.png"
-                    },
                     {
                         "name": "Cure All",
                         "chest_unopened_img": "images/items/Blue.png",
@@ -164,7 +159,7 @@
                     },
                     {
                         "name": "Pararoid",
-                        "ref": "Mechaniloids/Vanallia Desert - Signal Jammer Laser Energy Control Room SW/Pararoid"
+                        "ref": "Mechaniloids/Vanallia Desert Base - Signal Jammer Laser Energy Control Room SW/Pararoid"
                     }
                 ],
                 "map_locations": [
@@ -233,13 +228,13 @@
                 ]
             },
             {
-                "name": "Signal Jammer Laser Energy Generator",
+                "name": "Signal Jammer Laser Energy Generator NW",
                 "sections": [
                     {
                         "name": "Thunder Stella",
                         "chest_unopened_img": "images/items/Green.png",
                         "chest_opened_img": "images/items/Gray.png"
-                    }
+                    }                    
                 ],
                 "map_locations": [
                     {
@@ -250,7 +245,7 @@
                 ]
             },
             {
-                "name": "Signal Jammer Laser Energy Generator",
+                "name": "Signal Jammer Laser Energy Generator SW",
                 "sections": [
                     {
                         "name": "Fire Resist",
@@ -276,7 +271,7 @@
                 ]
             },
             {
-                "name": "Signal Jammer Laser Energy Generator",
+                "name": "Signal Jammer Laser Energy Generator NE",
                 "sections": [
                     {
                         "name": "Build LE",
@@ -298,7 +293,7 @@
                 ]
             },
             {
-                "name": "Signal Jammer Laser Energy Generator",
+                "name": "Signal Jammer Laser Energy Generator SE",
                 "sections": [
                     {
                         "name": "Shot Absorber",
