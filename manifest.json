@@ -2,7 +2,7 @@
   "name": "Mega Man X: Command Mission Tracker",
   "author": "Zexbid",
   "game_name": "Mega Man X: Command Mission",
-  "package_version": "0.0.1",
+  "package_version": "0.0.2b",
   "package_uid": "commandmission_pack",
   "target_poptracker_version": "0.28.0",
   "variants": {

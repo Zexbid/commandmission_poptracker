@@ -92,7 +92,7 @@
                 ]
             },
             {
-                "name": "4F-East",
+                "name": "Area 4F-East",
                 "chest_unopened_img": "none",
                 "sections": [
                     {
@@ -140,16 +140,6 @@
                 "name": "Area 3F-East",
                 "sections": [
                     {
-                        "name": "Lagrano Ruins - Area 3F-East - Preon Chaser Item 1",
-                        "chest_unopened_img": "images/items/Rebellion.png",
-                        "chest_opened_img": "images/items/RebellionGray.png"
-                    },
-                    {
-                        "name": "Lagrano Ruins - Area 3F-East - Preon Chaser Item 2",
-                        "chest_unopened_img": "images/items/Rebellion.png",
-                        "chest_opened_img": "images/items/RebellionGray.png"
-                    },
-                    {
                         "name": "Tank Energy 25",
                         "chest_unopened_img": "images/items/Yellow.png",
                         "chest_opened_img": "images/items/Gray.png"
@@ -193,7 +183,7 @@
                         "chest_opened_img": "images/items/Gray.png"
                     },
                     {
-                        "name": "30z",
+                        "name": "50z",
                         "chest_unopened_img": "images/items/Blue.png",
                         "chest_opened_img": "images/items/Gray.png"
                     },
