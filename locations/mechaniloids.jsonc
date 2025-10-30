@@ -115,7 +115,7 @@
             },
             {
                 "name": "Gimialla Mine - L3 Northwest Division",
-                "access_rules": ["gimialla_mine, shadow"],
+                "access_rules": ["gimialla_mine"],
                 "sections": [
                     {
                         "name": "Degraver"
@@ -124,7 +124,7 @@
             },
             {
                 "name": "Gimialla Mine - L3 Southwest Division",
-                "access_rules": ["gimialla_mine, shadow, gimialla_key, heavy_motor"],
+                "access_rules": ["gimialla_mine, gimialla_key, heavy_motor"],
                 "sections": [
                     {
                         "name": "Gold Blader"

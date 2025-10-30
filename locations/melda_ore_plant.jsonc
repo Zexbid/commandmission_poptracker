@@ -163,7 +163,7 @@
                     },
                     {
                         "name": "Wolfoid",
-                        "ref": "Mechaniloid/Melda Ore Plant - Area E-B04/Wolfoid"
+                        "ref": "Mechaniloids/Melda Ore Plant - Area E-B04/Wolfoid"
                     }
                 ],
                 "map_locations": [
@@ -301,8 +301,7 @@
                     {
                         "name": "Figure Token",
                         "chest_unopened_img": "images/items/Blue.png",
-                        "chest_opened_img": "images/items/Gray.png",
-                        "access_rules": ["ferham"]
+                        "chest_opened_img": "images/items/Gray.png"
                     },
                     {
                         "name": "Treasure Token",

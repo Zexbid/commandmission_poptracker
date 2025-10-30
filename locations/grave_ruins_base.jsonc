@@ -78,6 +78,11 @@
                         "chest_opened_img": "images/items/Gray.png"
                     },
                     {
+                        "name": "Tank Energy 100",
+                        "chest_unopened_img": "images/items/Yellow.png",
+                        "chest_opened_img": "images/items/Gray.png"
+                    },
+                    {
                         "name": "Treasure Token",
                         "ref": "Treasure Tokens/Grave Ruins Base - Level C Security Zone/Treasure Token"
                     }
@@ -91,7 +96,7 @@
                 ]
             },
             {
-                "name": "Level C Security Zone",
+                "name": "Level B Security Zone",
                 "sections": [
                     {
                         "name": "Cure All",
@@ -193,7 +198,7 @@
                 "name": "Revolver Rooms",
                 "sections": [
                     {
-                        "name": "Z Saber +++ (Room 4)",
+                        "name": "Z Saber+++ (Room 4)",
                         "chest_unopened_img": "images/items/Green.png",
                         "chest_opened_img": "images/items/Gray.png"
                     },
@@ -222,8 +227,7 @@
                     {
                         "name": "Tank Energy 50",
                         "chest_unopened_img": "images/items/Yellow.png",
-                        "chest_opened_img": "images/items/Gray.png",
-                        "item_count": 2
+                        "chest_opened_img": "images/items/Gray.png"
                     }
                 ],
                 "map_locations": [

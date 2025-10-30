@@ -290,11 +290,6 @@
                         "item_count": 2
                     },
                     {
-                        "name": "Figure Token",
-                        "chest_unopened_img": "images/items/Blue.png",
-                        "chest_opened_img": "images/items/Gray.png"
-                    },
-                    {
                         "name": "Tank Parts",
                         "chest_unopened_img": "images/items/Pink.png",
                         "chest_opened_img": "images/items/Gray.png",
@@ -342,7 +337,7 @@
                         "chest_opened_img": "images/items/Gray.png"
                     },
                     {
-                        "name": "Build Build Speed",
+                        "name": "Build Speed",
                         "chest_unopened_img": "images/items/Blue.png",
                         "chest_opened_img": "images/items/Gray.png"
                     },

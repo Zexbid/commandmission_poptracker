@@ -1,7 +1,7 @@
 [
     {
         "name": "Far East HQ",
-        "access_rules": ["far_east_hq"],
+        "access_rules": ["far_east_hq","rebellion_medal:9"],
         "children": [
             {
                 "name": "Teleport Terminal",
@@ -113,7 +113,7 @@
                 ]
             },
             {
-                "name": "Super Strato-Terminal",
+                "name": "Super-Strato Terminal",
                 "access_rules": ["rebellion_medal:9"],
                 "sections": [
                     {

@@ -219,11 +219,6 @@
                         "name": "Ultra Fire",
                         "chest_unopened_img": "images/items/Blue.png",
                         "chest_opened_img": "images/items/Gray.png"
-                    },
-                    {
-                        "name": "Tank Energy 25",
-                        "chest_unopened_img": "images/items/Yellow.png",
-                        "chest_opened_img": "images/items/Gray.png"
                     }
                 ],
                 "map_locations": [
@@ -239,7 +234,7 @@
                 "access_rules": ["central_tower"],
                 "sections": [
                     {
-                        "name": "Tank Energy 25",
+                        "name": "Tank Energy 50",
                         "chest_unopened_img": "images/items/Yellow.png",
                         "chest_opened_img": "images/items/Gray.png"
                     },
